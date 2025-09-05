@@ -31,7 +31,7 @@ It supports hysteresis to avoid repeated alerts while the value is fluctuating a
 ### 1️⃣ Clone or download the files
 ```bash
 git clone <your_repo_url>
-cd teams_temp_monitor
+cd temperature_monitor
 ```
 
 ### 2️⃣ Create and activate a Conda environment
